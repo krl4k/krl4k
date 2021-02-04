@@ -11,3 +11,6 @@
 ### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0C1117??style=flat-square&logo=Telegram)](https://t.me/krl4k)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krl4k&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
