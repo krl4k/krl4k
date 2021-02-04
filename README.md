@@ -1,7 +1,7 @@
 [![Header](https://github.com/krl4k/krl4k/blob/main/assets/21.jpeg)](https://github.com/krl4k)
 
 ## Education 
-[![School21](https://img.shields.io/badge/-School21-22A037??style=flat-square&logo=)](http://surl.li/kmqz) Student school 21 <br />
+Student school 21  [![School21](https://img.shields.io/badge/-About_School-22A037??style=flat-square&logo=)](http://surl.li/kmqz) <br />
 ### Languages and Tools
 
 ![C](https://img.shields.io/badge/-0C1117??style=flat-square&logo=c)
