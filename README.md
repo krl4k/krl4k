@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-0C1117??style=flat-square&logo=docker)
 ![SQL](https://img.shields.io/badge/-SQL-0C1117??style=flat-square&logo=mysql)
 
-###Projects
+### Projects
 
 [![Wolf3d](https://img.shields.io/badge/-Wolf3D-0C1117??style=flat-square&logo=)](https://github.com/krl4k/wolf3d)
 This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. It will enable you to explore ray-casting.
