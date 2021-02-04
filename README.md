@@ -10,4 +10,4 @@
 
 ### Follow Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0C1117??style=flat-square&logo=Telegram)](t-do.ru/krl4k)
+[![Telegram](https://img.shields.io/badge/-Telegram-0C1117??style=flat-square&logo=Telegram)](https://t-do.ru/krl4k)
