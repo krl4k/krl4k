@@ -4,6 +4,8 @@
 
 ### Languages and Tools
 
-![C](https://img.shields.io/badge/-C-073a87)
+![C](https://img.shields.io/badge/-073a87??style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-Docker-0C1117??style=flat-square&logo=docker)
+![C](https://img.shields.io/badge/-SQL-0C1117??style=flat-square&logo=mysql)
 
 Follow Me 
