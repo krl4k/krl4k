@@ -11,7 +11,11 @@ Student school 21  [![School21](https://img.shields.io/badge/-About_School-0C111
 ### Projects
 
 [![Wolf3d](https://img.shields.io/badge/-Wolf3D-0C1117??style=flat-square&logo=)](https://github.com/krl4k/wolf3d)
-This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever.<br /> It will enable you to explore ray-casting.
+This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever.<br /> 
+It will enable you to explore ray-casting.
+
+[![ft_server](https://img.shields.io/badge/-ft_server-0C1117??style=flat-square&logo=Docker)](https://github.com/krl4k/ft_server)
+This project is intended to introduce you to the basics of system and network administration. It will allow you to install a complete web server, using a deployment technology named Docker.
 
 ### Follow Me
 
