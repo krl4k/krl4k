@@ -20,5 +20,5 @@ This project is inspired by the world-famous eponymous 90's game, which was the 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krl4k&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krl4k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krl4k&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
