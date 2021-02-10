@@ -26,5 +26,3 @@ This project is intended to introduce you to the basics of system and network ad
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krl4k&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/fgrisell?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/fgrisell?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
