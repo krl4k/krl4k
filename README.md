@@ -27,4 +27,3 @@ This project is intended to introduce you to the basics of system and network ad
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/fgrisell?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krl4k)](https://github.com/anuraghazra/github-readme-stats)
