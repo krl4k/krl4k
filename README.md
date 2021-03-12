@@ -6,6 +6,8 @@ Student school 21 ![42](https://badgen.net/badge/Born2Code/fgrisell/blue?cache=8
 ### Languages and Tools
 
 ![Git](https://img.shields.io/badge/--0C1117??style=flat-square&logo=Git)
+![Vim](https://img.shields.io/badge/--0C1117??style=flat-square&logo=Vim)
+
 ![C](https://img.shields.io/badge/-0C1117??style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/--0C1117??style=flat-square&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/--0C1117??style=flat-square&logo=java)
