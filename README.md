@@ -4,9 +4,17 @@
 Student school 21  [![School21](https://img.shields.io/badge/-About_School-0C1117??style=flat-square&logo=)](http://surl.li/kmqz) <br />
 ### Languages and Tools
 
+![Git](https://img.shields.io/badge/--0C1117??style=flat-square&logo=Git)
 ![C](https://img.shields.io/badge/-0C1117??style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/--0C1117??style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/--0C1117??style=flat-square&logo=java)
+<br />
 ![Docker](https://img.shields.io/badge/-Docker-0C1117??style=flat-square&logo=docker)
-![SQL](https://img.shields.io/badge/-SQL-0C1117??style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-K8S-0C1117??style=flat-square&logo=kubernetes)
+![SQL](https://img.shields.io/badge/--0C1117??style=flat-square&logo=mysql)
+![PHP](https://img.shields.io/badge/-phpMyAdmin-0C1117??style=flat-square&logo=php)
+
+
 
 ### Projects
 
@@ -14,8 +22,15 @@ Student school 21  [![School21](https://img.shields.io/badge/-About_School-0C111
 This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever.<br /> 
 It will enable you to explore ray-casting.
 
-[![ft_server](https://img.shields.io/badge/-ft_server-0C1117??style=flat-square&logo=Docker)](https://github.com/krl4k/ft_server)
+[![ft_server](https://img.shields.io/badge/-Server-0C1117??style=flat-square&logo=Docker)](https://github.com/krl4k/ft_server)
 This project is intended to introduce you to the basics of system and network administration. It will allow you to install a complete web server, using a deployment technology named Docker.
+
+[![services](https://img.shields.io/badge/-Services-0C1117??style=flat-square&logo=kubernetes)](https://github.com/krl4k/services)
+Services will introduce you to Kubernetes. You will discover cluster management and deployment with Kubernetes. You will virtualize a network and do "clustering".
+
+[![minishell](https://img.shields.io/badge/-Minishell-0C1117??style=flat-square&logo=Linux)](https://github.com/krl4k/minishell)
+The goal of the project was to write its own command shell. 
+
 
 ### Follow Me
 
