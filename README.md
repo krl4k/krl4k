@@ -19,9 +19,11 @@ Student school 21 ![42](https://badgen.net/badge/Born2Code/fgrisell/blue?cache=8
 
 ### Projects
 
-[![Wolf3d](https://img.shields.io/badge/-Wolf3D-0C1117??style=flat-square&logo=)](https://github.com/krl4k/wolf3d)
-This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever.<br />
-It will enable you to explore ray-casting.
+[![Webserv](https://img.shields.io/badge/-Http-0C1117??style=flat-square&logo=)](https://github.com/krl4k/webserv)
+Http server. Supports several kinds of queries (CRUD). Supports multiple client connections.
+
+[![Sql-proxyServer](https://img.shields.io/badge/-Wolf3D-0C1117??style=flat-square&logo=)](https://github.com/krl4k/SQL_ProxyServer)
+Sql proxy server on BoostAsio. A proxy acting as a man in the middle to track database requests and log them.
 
 [![ft_server](https://img.shields.io/badge/-Server-0C1117??style=flat-square&logo=Docker)](https://github.com/krl4k/ft_server)
 This project is intended to introduce you to the basics of system and network administration. 
