@@ -19,10 +19,10 @@ Student school 21 ![42](https://badgen.net/badge/Born2Code/fgrisell/blue?cache=8
 
 ### Projects
 
-[![Webserv](https://img.shields.io/badge/-Http-0C1117??style=flat-square&logo=HTTP)](https://github.com/krl4k/webserv)
+[![Webserv](https://img.shields.io/badge/-Http-0C1117??style=flat-square&logo=http)](https://github.com/krl4k/webserv)
 Http server. Supports several kinds of queries (CRUD). Supports multiple client connections.
 
-[![Sql-proxyServer](https://img.shields.io/badge/-Proxy-0C1117??style=flat-square&logo=Sql)](https://github.com/krl4k/SQL_ProxyServer)
+[![Sql-proxyServer](https://img.shields.io/badge/-Proxy-0C1117??style=flat-square&logo=mysql)](https://github.com/krl4k/SQL_ProxyServer)
 Sql proxy server on BoostAsio. A proxy acting as a man in the middle to track database requests and log them.
 
 [![ft_server](https://img.shields.io/badge/-Server-0C1117??style=flat-square&logo=Docker)](https://github.com/krl4k/ft_server)
